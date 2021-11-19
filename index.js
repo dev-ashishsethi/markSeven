@@ -1,5 +1,3 @@
-// https://api.funtranslations.com/translate/pirate.json
-
 let input= document.getElementsByClassName("text")[0];
 let btn= document.getElementsByClassName("btn-primary")[0];
 let output= document.getElementsByClassName("output")[0];
